@@ -13,7 +13,7 @@ import {
         <View style={styles.contaniner}>
           <View style={styles.main}>
             {/* main content will go here */}
-            <text>Message</text>
+            <text>Messages</text>
             {/* main content will go here */}
           </View>
           <View style={styles.nav}>
