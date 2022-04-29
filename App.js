@@ -28,6 +28,9 @@ export default function App() {
         <Stack.Screen name="history" component={History} />
         <Stack.Screen name="profile" component={Profile} />
         <Stack.Screen name="message" component={Message} />
+
+
+        
       </Stack.Navigator>
     </NavigationContainer>
   );
